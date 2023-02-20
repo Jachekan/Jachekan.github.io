@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{about.html}
+= Sohrab Madani -- About Me \n
+Electrical and Computer Engineering, University of Illinois at Urbana-Champaign
+
+Sohrab Madani is a PhD candidate at University of Illinois at Urbana-Champaign.
+~~~
+{}{raw}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49484039-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-49484039-2');
+</script>
+~~~
